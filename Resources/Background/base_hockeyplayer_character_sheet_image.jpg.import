@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/light blue.jpg-87966692ea29f16999a2f4bc672c8e47.stex"
+path="res://.import/base_hockeyplayer_character_sheet_image.jpg-d87c7270da5cd4cf1338072b804319cf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://UI_assets/backgrounds/light blue.jpg"
-dest_files=[ "res://.import/light blue.jpg-87966692ea29f16999a2f4bc672c8e47.stex" ]
+source_file="res://Resources/Background/base_hockeyplayer_character_sheet_image.jpg"
+dest_files=[ "res://.import/base_hockeyplayer_character_sheet_image.jpg-d87c7270da5cd4cf1338072b804319cf.stex" ]
 
 [params]
 

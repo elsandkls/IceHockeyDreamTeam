@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sky blue.jpg-0d77feb1c31b1dd1a49b5af254538305.stex"
+path="res://.import/light blue.jpg-d63390f0eef0af2dd42d08b53ec4bedc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://UI_assets/backgrounds/sky blue.jpg"
-dest_files=[ "res://.import/sky blue.jpg-0d77feb1c31b1dd1a49b5af254538305.stex" ]
+source_file="res://Resources/Background/light blue.jpg"
+dest_files=[ "res://.import/light blue.jpg-d63390f0eef0af2dd42d08b53ec4bedc.stex" ]
 
 [params]
 

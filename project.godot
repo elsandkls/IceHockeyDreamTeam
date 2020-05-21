@@ -15,7 +15,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="HockeyDreamTeam"
+config/name="IceHockeyDreamTeam"
 config/icon="res://icon.png"
 
 [display]

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Texture-176.jpg-7c335fa6c16e81a69f4276f48a9207c8.stex"
+path="res://.import/sky blue.jpg-a346daf0525a453043da2d2553c1dc92.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://UI_assets/backgrounds/Texture-176.jpg"
-dest_files=[ "res://.import/Texture-176.jpg-7c335fa6c16e81a69f4276f48a9207c8.stex" ]
+source_file="res://Resources/Background/sky blue.jpg"
+dest_files=[ "res://.import/sky blue.jpg-a346daf0525a453043da2d2553c1dc92.stex" ]
 
 [params]
 
