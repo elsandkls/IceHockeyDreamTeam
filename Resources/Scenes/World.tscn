@@ -1,15 +1,14 @@
-[gd_scene load_steps=11 format=2]
+[gd_scene load_steps=10 format=2]
 
-[ext_resource path="res://World.gd" type="Script" id=1]
-[ext_resource path="res://SafeFileNode.gd" type="Script" id=2]
-[ext_resource path="res://CharacterSheetDB.gd" type="Script" id=3]
-[ext_resource path="res://PlayerGameSkillTreeDB.gd" type="Script" id=4]
-[ext_resource path="res://CharacterSkillTreeDB.gd" type="Script" id=5]
-[ext_resource path="res://PlayerGameSkillTypesDB.gd" type="Script" id=6]
-[ext_resource path="res://PlayerDB.gd" type="Script" id=7]
-[ext_resource path="res://SeasonalStatsDB.gd" type="Script" id=8]
-[ext_resource path="res://TeamDB.gd" type="Script" id=9]
-[ext_resource path="res://TeamStatsDB.gd" type="Script" id=10]
+[ext_resource path="res://Resources/Scripts/World.gd" type="Script" id=1]
+[ext_resource path="res://Resources/Scripts/Node.gd" type="Script" id=2]
+[ext_resource path="res://Resources/Scripts/CharacterSheetDB.gd" type="Script" id=3]
+[ext_resource path="res://Resources/Scripts/CharacterSkillTreeDB.gd" type="Script" id=5]
+[ext_resource path="res://Resources/Scripts/PlayerGameSkillTreeDB.gd" type="Script" id=6]
+[ext_resource path="res://Resources/Scripts/PlayerDB.gd" type="Script" id=7]
+[ext_resource path="res://Resources/Scripts/SeasonalStatsDB.gd" type="Script" id=8]
+[ext_resource path="res://Resources/Scripts/TeamDB.gd" type="Script" id=9]
+[ext_resource path="res://Resources/Scripts/TeamStatsDB.gd" type="Script" id=10]
 
 [node name="World" type="YSort"]
 script = ExtResource( 1 )
@@ -33,7 +32,7 @@ script = ExtResource( 9 )
 script = ExtResource( 10 )
 
 [node name="PlayerGameSkillTreeDB" type="Node" parent="."]
-script = ExtResource( 4 )
+script = ExtResource( 5 )
 
 [node name="PlayerGameSkillTypesDB" type="Node" parent="."]
 script = ExtResource( 6 )
